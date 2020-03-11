@@ -130,3 +130,5 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 **Machine Learning**
 
 > [Carnegie Mellon 10-601](http://www.cs.cmu.edu/~ninamf/courses/601sp15/)
+> *or*
+> [MIT 6.867](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/index.htm)
